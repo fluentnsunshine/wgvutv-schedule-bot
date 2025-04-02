@@ -22,7 +22,7 @@ Built with:
 ## 🧪 Demo
 
 🎥 Watch the MVP in action:  
-👉 [Insert Loom link here]
+👉 [Watch the Loom walkthrough](https://www.loom.com/share/9f19151a4bbb4e25a6212e81e3daa3b6?sid=9d761051-72e3-4515-8846-072b1c9829a8)
 
 ---
 
